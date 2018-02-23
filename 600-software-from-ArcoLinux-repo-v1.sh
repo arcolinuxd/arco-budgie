@@ -13,30 +13,30 @@ set -e
 #
 ##################################################################################################################
 
-echo "ArchMerge Repository"
+echo "ArcoLinux Repository"
 
-sudo pacman -S archmerge-arc-themes-git --noconfirm --needed
-#sudo pacman -S archmerge-common-git --noconfirm --needed
-sudo pacman -S archmerge-conky-collection-git --noconfirm --needed
-#sudo pacman -S archmerge-docs-git --noconfirm --needed
-#sudo pacman -S archmerge-i3wm-git --noconfirm --needed
-sudo pacman -S archmerge-iso-skel-git --noconfirm --needed
-#sudo pacman -S archmerge-oblogout-themes-git --noconfirm --needed
-#sudo pacman -S archmerge-obmenu-generator-git --noconfirm --needed
-#sudo pacman -S archmerge-openbox-configs-git --noconfirm --needed
-#sudo pacman -S archmerge-openbox-themes-git --noconfirm --needed
-sudo pacman -S archmerge-pipemenus-git --noconfirm --needed
-sudo pacman -S archmerge-plank-themes-git --noconfirm --needed
-#sudo pacman -S archmerge-polybar-git --noconfirm --needed
-sudo pacman -S archmerge-root-git --noconfirm --needed
-#sudo pacman -S archmerge-slimlock-themes-git --noconfirm --needed
-sudo pacman -S archmerge-termite-themes-git --noconfirm --needed
-#sudo pacman -S archmerge-tint2-themes-git --noconfirm --needed
-sudo pacman -S archmerge-wallpapers-git --noconfirm --needed
-#sudo pacman -S archmerge-xfce-thunar-git --noconfirm --needed
+sudo pacman -S arcolinux-arc-themes-git --noconfirm --needed
+#sudo pacman -S arcolinux-common-git --noconfirm --needed
+sudo pacman -S arcolinux-conky-collection-git --noconfirm --needed
+#sudo pacman -S arcolinux-docs-git --noconfirm --needed
+#sudo pacman -S arcolinux-i3wm-git --noconfirm --needed
+sudo pacman -S arcolinux-iso-skel-git --noconfirm --needed
+#sudo pacman -S arcolinux-oblogout-themes-git --noconfirm --needed
+#sudo pacman -S arcolinux-obmenu-generator-git --noconfirm --needed
+#sudo pacman -S arcolinux-openbox-configs-git --noconfirm --needed
+#sudo pacman -S arcolinux-openbox-themes-git --noconfirm --needed
+sudo pacman -S arcolinux-pipemenus-git --noconfirm --needed
+sudo pacman -S arcolinux-plank-themes-git --noconfirm --needed
+#sudo pacman -S arcolinux-polybar-git --noconfirm --needed
+sudo pacman -S arcolinux-root-git --noconfirm --needed
+#sudo pacman -S arcolinux-slimlock-themes-git --noconfirm --needed
+sudo pacman -S arcolinux-termite-themes-git --noconfirm --needed
+#sudo pacman -S arcolinux-tint2-themes-git --noconfirm --needed
+sudo pacman -S arcolinux-wallpapers-git --noconfirm --needed
+#sudo pacman -S arcolinux-xfce-thunar-git --noconfirm --needed
 
 echo "################################################################"
-echo "####     Software from ArchMerge Repository installed       ####"
+echo "####     Software from ArcoLinux Repository installed       ####"
 echo "################################################################"
 echo
 
