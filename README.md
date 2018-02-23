@@ -1,12 +1,12 @@
-# ArchMergeD Budgie desktop
+# ArcoLinuxD Budgie desktop
 
-# Start by installing the latest ArchMergeD installation
+# Start by installing the latest ArcoLinuxD installation
 
-Download at https://archmerge.info and burn to usb
+Download at https://arcolinux.info and burn to usb
 
 # Follow installation tutorials on
 
-Tutorials on https://archmerged.com
+Tutorials on https://arcolinuxd.com
 
 # Vision
 
@@ -32,29 +32,29 @@ Learn, have fun and enjoy.
 
 # Websites
 
-Information : https://archmerge.info
+Information : https://arcolinux.info
 
-Tutorials about ArchMerge iso (Xfce, Openbox and i3) : https://archmerge.com
+Tutorials about ArcoLinux iso (Xfce, Openbox and i3) : https://arcolinux.com
 
-Tutorials about ArchMergeD iso (any desktop) : https://archmerged.com
+Tutorials about ArcoLinuxD iso (any desktop) : https://arcolinuxd.com
 
-Forum : https://archmergeforum.com
+Forum : https://arcolinuxforum.com
 
 
 # Social Media
 
-Facebook : https://www.facebook.com/archmergelinux/
+Facebook : https://www.facebook.com/arcolinuxd/
 
-Facebook : https://www.facebook.com/groups/archmerge/
+Facebook : https://www.facebook.com/groups/arcolinux/
 
-Google + : https://plus.google.com/u/0/communities/109343992040963164975
+Google + : https://plus.google.com/u/0/communities/104398992023863502986
 
-Flickr   : https://www.flickr.com/photos/archmerge/
+Flickr   : https://www.flickr.com/photos/arcolinux/
 
-Twitter  : https://twitter.com/ArchMerge
+Twitter  : https://twitter.com/arcolinux
 
-Instagram: https://www.instagram.com/archmerge/
+Instagram: https://www.instagram.com/arcolinux/
 
-Linked in: https://www.linkedin.com/in/archmerge/
+Linked in: https://www.linkedin.com/in/arcolinux
 
 Youtube  : https://www.youtube.com/erikdubois
