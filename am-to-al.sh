@@ -25,11 +25,11 @@ find .  ! -name am-to-al.sh -type f -exec sed -i  	's/ArchMerge iso (Xfce, Openb
 
 
 #packages
-find .  ! -name am-to-al.sh -type f -exec sed -i  	's/arcolinux-/arcolinux-/g' {} \;
+find .  ! -name am-to-al.sh -type f -exec sed -i  	's/archmerge-/arcolinux-/g' {} \;
 
 #Repository
 
-find .  ! -name am-to-al.sh -type f -exec sed -i  	's/ArcoLinux Repository/ArcoLinux Repository/g' {} \;
+find .  ! -name am-to-al.sh -type f -exec sed -i  	's/ArchMerge Repository/ArcoLinux Repository/g' {} \;
 
 find .  ! -name am-to-al.sh -name "README.md" -type f -exec sed -i  	's/ArchMergeD/ArcoLinuxD/g' {} \;
 
