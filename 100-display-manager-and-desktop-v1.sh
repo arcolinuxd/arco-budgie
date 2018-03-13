@@ -28,4 +28,4 @@ sudo systemctl set-default graphical.target
 
 echo "Remove anything you do not like from the installed applications"
 
-sudo pacman -R gnome-backgrounds --noconfirm
+#sudo pacman -R...
