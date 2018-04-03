@@ -40,8 +40,9 @@ echo "Installing category Other"
 
 echo "Installing category System"
 
-sudo pacman -S --noconfirm --needed gnome-screensaver
-
+sudo pacman -S gnome-screensaver --noconfirm --needed
+sudo pacman -S imagemagick --noconfirm --needed
+sudo pacman -S w3m --noconfirm --needed
 echo "################################################################"
 echo "####    Software from Arch Linux Repository installed     ######"
 echo "################################################################"
