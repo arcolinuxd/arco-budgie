@@ -13,9 +13,8 @@ set -e
 #
 ##################################################################################################################
 
-sudo pacman -S --noconfirm --needed virtualbox
 sudo pacman -S --noconfirm --needed virtualbox-host-modules-arch
-sudo pacman -S --noconfirm --needed linux-headers
+sudo pacman -S --noconfirm --needed virtualbox
 
 echo "################################################################"
 echo "#########           You got to reboot.                 #########"

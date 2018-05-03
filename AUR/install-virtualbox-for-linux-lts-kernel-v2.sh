@@ -14,7 +14,7 @@ set -e
 ##################################################################################################################
 
 sudo pacman -S --noconfirm --needed virtualbox
-sudo pacman -S --noconfirm --needed virtualbox-host-dkms
+sudo pacman -S --needed virtualbox-host-dkms
 sudo pacman -S --noconfirm --needed linux-lts-headers
 
 echo "################################################################"
