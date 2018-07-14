@@ -22,6 +22,7 @@ sudo pacman -Syyu
 sudo pacman -S lightdm --noconfirm --needed
 sudo pacman -S gnome --noconfirm --needed
 sh AUR-DS/install-budgie-desktop-git-v*.sh
+sudo pacman -S budgie-desktop --noconfirm --needed
 sudo systemctl enable lightdm.service -f
 sudo systemctl set-default graphical.target
 
