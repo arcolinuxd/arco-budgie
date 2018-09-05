@@ -22,6 +22,7 @@ sudo pacman -Syyu --noconfirm
 #installing displaymanager or login manager
 sudo pacman -S --noconfirm --needed lightdm
 sudo pacman -S --noconfirm --needed arcolinux-lightdm-gtk-greeter arcolinux-lightdm-gtk-greeter-settings
+sudo pacman -S --noconfirm --needed arcolinux-wallpapers-git 
 #installing desktop environment
 sudo pacman -S gnome --noconfirm --needed
 #sh AUR-DS/install-budgie-desktop-git-v*.sh
