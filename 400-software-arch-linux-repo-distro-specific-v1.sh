@@ -22,6 +22,8 @@ echo "DESKTOP SPECIFIC APPLICATIONS"
 
 echo "Installing category Accessories"
 
+sudo pacman -S --noconfirm --needed guake
+
 echo "Installing category Development"
 
 echo "Installing category Education"
