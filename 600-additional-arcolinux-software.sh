@@ -58,6 +58,12 @@ list=(
 arcolinux-config-budgie-git
 arcolinux-budgie-dconf-git
 arcolinux-budgie-git
+thunar
+thunar-archive-plugin
+thunar-volman
+xfce4-terminal
+arcolinux-xfce-git
+arcolinux-local-xfce4-git
 )
 
 count=0
