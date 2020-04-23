@@ -57,6 +57,8 @@ gnome
 guake
 )
 
+#gnome-extra can be added too
+
 count=0
 
 for name in "${list[@]}" ; do
