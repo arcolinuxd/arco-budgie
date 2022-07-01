@@ -56,7 +56,6 @@ func_category Arcolinux-Desktop
 
 list=(
 arcolinux-config-all-desktops-git
-arcolinux-budgie-dconf-git
 arcolinux-budgie-git
 thunar
 thunar-archive-plugin
